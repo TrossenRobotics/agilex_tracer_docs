@@ -24,6 +24,7 @@ What's Here
 *   :doc:`getting_started` - These guides will walk you through the setup process for your TRACER.
 *   :doc:`operation` - These guides will details concepts related to the operation of the TRACER.
 *   :doc:`specifications` - Contains specification information for the TRACER and related hardware.
+*   :doc:`downloads` - Downloadable content related to the TRACER.
 
 Table of Contents:
 ==================
@@ -35,3 +36,4 @@ Table of Contents:
     getting_started.rst
     operation.rst
     specifications.rst
+    downloads.rst
